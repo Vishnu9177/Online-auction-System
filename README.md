@@ -1,0 +1,1 @@
+The Online Auction System is a web-based platform where users can buy and sell products through bidding. It provides a transparent, secure, and efficient way for sellers to list items and buyers to participate in auctions. The system manages user registration, bidding, payments, and auction closing automatically.
